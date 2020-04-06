@@ -2,8 +2,8 @@
 /**
 * File Name: TriangleClassifier.java
 * Purpose: Classifies triangle types based on side length
-* Date: 2020-03-01
-* Last modified: 2020-03-01
+* Date: 2019-09-15
+* Last modified: 2019-09-15
 * Author: Josen Pottackal
 * Copy right no copyright
 * Version: 1.0
